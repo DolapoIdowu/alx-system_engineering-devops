@@ -9,3 +9,4 @@ The eighth script is a script that Moves the file betty from /tmp/ to /tmp/my_fi
 The ninth script is a script that Delete the file betty the file betty that is in /tmp/my_first_directory
 The tenth script is a script that Delete the directory my_first_directory that is in the /tmp directory.
 The Eleventh script is  a script that changes the working directory to the previous one.
+The twelveth script is a script that lists all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format.
