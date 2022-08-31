@@ -4,3 +4,4 @@ The third script is  a script that changes the working directory to the user’s
 The fourth script is a script that Display current directory contents in a long format
 The fifth script is a script that Display current directory contents, including hidden files (starting with .).
 The sixth script is a script that Display current directory contents in Long format,with user and group IDs displayed numerically and hidden files (starting with .)
+This seventh script is a script that Create a script that creates a directory named my_first_directory in the /tmp/ directory.
